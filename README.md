@@ -1,1 +1,2 @@
-# Machine_Translation_Using_Attention
+# Machine Translation Using Attention
+using attention model,translate english sentence to hindi sentence 
